@@ -1,0 +1,3 @@
+1> box.getBoundingClientRect().top/left---> viwport se element ka top se position and left se position dega.
+2> box.offsetTop/ box.offsetLeft b same hi chiz h 
+3>window.innerHeight viewport ka height dega
